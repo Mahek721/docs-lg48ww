@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Mahek721.github.io/docs-lg48ww/sitemap.xml
